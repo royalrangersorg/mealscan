@@ -48,3 +48,4 @@ The gui software depends on the following python packages
 * wx widgets
 * pyglet
 * request
+* py2exe for compiling to windows
