@@ -15,7 +15,7 @@ A sample php file has been included in /server that shows the type of response r
 The json settings file contains local settings
 
 ```
-{"localonly":1,"host":"http://royalranges.org/adm/","location":"GREEN"}
+{"localonly":1,"host":"http://royalrangers.foo/check.php","location":"GREEN"}
 ```
 
 * localonly (bool) - whether we should connect to a remote server 
