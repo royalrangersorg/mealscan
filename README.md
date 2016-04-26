@@ -7,7 +7,7 @@ It consists of a python gui program and a small (optional) server component for 
 
 ### Server component 
 
-A sample php file has been included in /server that shows the type of response required for checking
+A sample php file has been included in /server that shows the type of response required for checking remote server for supporting multiple locations
 
 
 ### Settings File
